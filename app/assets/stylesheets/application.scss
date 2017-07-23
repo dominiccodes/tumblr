@@ -30,7 +30,8 @@ a {
 }
 
 #sidebar {
-	width: 200px;
+	//	was 200px
+	width: 250px;
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -99,7 +100,8 @@ a {
 }
 
 #main_content {
-	margin-left: 200px;
+	//	was 200px
+	margin-left: 250px;
 	#header {
 		padding: 1.2em 3.5em;
 		border-bottom: 1px solid #b8e2fe;
@@ -141,7 +143,7 @@ a {
 			margin: .5em 0 0 0;
 		}
 		.body {
-			color: #d3d3d3;
+			color: #22487b;
 			margin: .5em 0 0 0;
 		}
 	}
